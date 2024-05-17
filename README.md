@@ -77,5 +77,5 @@ The server typically runs at `http://localhost:3000`.
 - **Concept Extraction**: `GeminiProcessor` employs Google Vertex AI and Gemini models to extract key concepts, showcasing the application of generative AI in educational technology.
 - **Error Handling and Logging**: Extensive logging to trace steps and handle errors gracefully.
 
-##Acknowledgement
+## Acknowledgement
 This project, "Gemini Dynamo," was developed with the invaluable guidance and structured mission tasks provided by Radical AI. I extend my heartfelt thanks to Rex, the AI coach, whose expert advice steered me through the complexities of the project. Additionally, I am grateful for the instructional videos created by the Radical AI team. These resources not only explained the nuances of the code but also provided detailed insights into the subtleties of the project, enhancing my understanding and execution of the tasks. Their support has been instrumental in the successful completion of this project.
